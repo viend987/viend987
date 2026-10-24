@@ -1,6 +1,7 @@
 <div align="center">
   
 # Hi there! I'm Farhan 👋
+(My old account got suspend damn it)
 
 ### 💻 Beginner Developer | 🎓 College Student | 🤖 Discord Bot Enthusiast
 
